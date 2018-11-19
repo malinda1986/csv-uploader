@@ -1,0 +1,13 @@
+{
+    "hostname": "dev",
+    "mongo_url": "mongodb://127.0.0.1/seva",
+    "mongo" : {
+        "host": "127.0.0.1",
+        "db": "soul"
+    },
+    "api": {
+        "version" : 1,
+        "app_path": "/api/v1"
+    },
+    "ip": "localhost"
+}

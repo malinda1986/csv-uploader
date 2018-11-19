@@ -1,0 +1,14 @@
+{
+    "hostname": "",
+    "mongo": {
+        "host": "mongodb://tester:test123@ds133077.mlab.com:33077/soultest",
+        "db": "soul",
+        "debug": true
+    },
+    "port": "8080",
+    "loggly": {
+        "token": "",
+        "subdomain": ""
+    },
+    "log_level": "error"
+}
